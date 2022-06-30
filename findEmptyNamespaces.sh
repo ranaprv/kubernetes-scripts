@@ -1,4 +1,6 @@
 #!/bin/bash
+#Auther Praveen Rana 
+#Email <praveen@cloudxshift.com>
 
 # Go over all namespaces in a cluster and check if they are empty of workloads and controller objects
 
